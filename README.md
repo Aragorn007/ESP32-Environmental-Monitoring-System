@@ -29,11 +29,11 @@ A custom 2-layer PCB designed in KiCad for IoT sensing and monitoring applicatio
 
 ## PCB Layout
 
-(Add 2D PCB image)
+<img width="1119" height="767" alt="image" src="https://github.com/user-attachments/assets/aa4d1075-cba8-401d-8d26-fe130e18fdc1" />
 
 ## 3D View
 
-(Add 3D render image)
+<img width="1675" height="952" alt="PCB_top" src="https://github.com/user-attachments/assets/fd6ca6f9-d73b-4e4f-b091-7f3c73b01118" />
 
 ## Manufacturing Files
 
